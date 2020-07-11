@@ -18,4 +18,8 @@ class MainActivity : AppCompatActivity() {
     fun private testMethodSecond(){
 
     }
+
+    fun private testMethodThird(){
+
+    }
 }
