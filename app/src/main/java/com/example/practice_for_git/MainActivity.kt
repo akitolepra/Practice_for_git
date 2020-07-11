@@ -14,4 +14,8 @@ class MainActivity : AppCompatActivity() {
     {
         //TODO:do something here!
     }
+
+    fun private testMethodSecond(){
+
+    }
 }
