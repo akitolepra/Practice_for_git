@@ -22,4 +22,8 @@ class MainActivity : AppCompatActivity() {
     fun private testMethodThird(){
         //TODO:do something here!
     }
+
+    fun private testMethodFift(){
+
+    }
 }
