@@ -15,11 +15,18 @@ class MainActivity : AppCompatActivity() {
         //TODO:do something here!
     }
 
-    fun private testMethodSecond(){
+    fun private testMethodSecond()
+    {
         //TODO:do something here!
     }
 
-    fun private testMethodThird(){
+    fun private testMethodThird()
+    {
+
+    }
+
+    fun private testMethodFourth()
+    {
 
     }
 }
